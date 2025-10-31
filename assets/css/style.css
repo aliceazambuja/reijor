@@ -230,16 +230,6 @@ a:hover {
 }
 
 @media (max-width: 640px) {
-  .hero-bg {
-    background-image: 
-      linear-gradient(to bottom, rgba(0, 40, 20, 0.8), rgba(0, 40, 20, 0.7)),
-      url('assets/img/fachada-centro.jpg');
-    background-size: cover;
-    background-position: center;
-  }
-}
-
-@media (max-width: 640px) {
   .hero-inner {
     padding: 2rem 1rem;
     text-shadow: 0 2px 6px rgba(0, 0, 0, 0.6);
@@ -255,3 +245,4 @@ a:hover {
     line-height: 1.5;
   }
 }
+
